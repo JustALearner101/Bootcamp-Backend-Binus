@@ -1,0 +1,4 @@
+Balance: 1500.00
+Created: 2026-09-16 14:37:27
+Transactions:
+  [2026-09-16 14:37:28] TRANSFER IN: +500.00 from Rudolph

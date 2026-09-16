@@ -1,0 +1,13 @@
+# Dotfiles
+.*
+!.gitignore
+
+# Dependency folders
+node_modules/
+vendor/
+.pnpm-store/
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
